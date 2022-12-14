@@ -16,3 +16,9 @@ Rahmenbedingungen (Spezifikationen):
 •	Die Schaltung soll mit der Quartus IDE designt werden, danach konvertiert und auf das FPGA übertragen werden.
 •	Die Programmierung von FPGAs erfolgt durch Hardware Description Languages (HDL). Eine Einführung von HDL ist im Curriculum allerdings nicht vorgesehen, deswegen soll der Einsatz von HDL vermieden und die Lösung der Aufgabenstellung durch digitalen Schaltungsentwurf erfolgen.
 
+Quellen:
+Hardware:	https://store.arduino.cc/products/arduino-mkr-vidor-4000
+Quartus:	http://www.ee.ic.ac.uk/pcheung/teaching/ee2_digital/tut_quartus_intro_schem.pdf
+Template:	https://github.com/wd5gnr/VidorFPGA
+Quickuide:	https://nerdhut.de/2020/08/17/arduino-mkr-vidor-4000-verilog-fpga-and-mcu-hello-world-tutorial/
+ArduinoIDE:	https://www.arduino.cc/en/software
